@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11b69d63.css",
+    "main.js": "/static/js/main.c8222f92.js",
+    "static/media/logo_horizontal.png": "/static/media/logo_horizontal.c1e1dad03ce5f7b0913e.png",
+    "static/media/capa_checkfy.jpg": "/static/media/capa_checkfy.c9f8b1902cf247c369e9.jpg",
+    "index.html": "/index.html",
+    "main.11b69d63.css.map": "/static/css/main.11b69d63.css.map",
+    "main.c8222f92.js.map": "/static/js/main.c8222f92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b69d63.css",
+    "static/js/main.c8222f92.js"
+  ]
+}
